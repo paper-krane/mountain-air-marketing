@@ -7,7 +7,7 @@ import Categories from '@/components/Categories.vue';
 import ImageTicker from '@/components/ImageTicker.vue';
 import SmallText from '@/components/SmallText.vue';
 import LinkGrid from '@/components/LinkGrid.vue';
-import TrustBanner from '@/components/TrustBanner.vue';
+// import TrustBanner from '@/components/TrustBanner.vue';
 </script>
 
 <template>

@@ -3,7 +3,6 @@ import gsap from 'gsap';
 import { ref, onMounted } from 'vue';
 import { ScrollTrigger } from 'gsap/all';
 
-import bannerImage from '@/assets/images/video-banner.jpg';
 import bannerVideo from '@/assets/MAM-Gif-1.mp4';
 
 // Refs
